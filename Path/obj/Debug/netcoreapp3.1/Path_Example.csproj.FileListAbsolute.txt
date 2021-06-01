@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.exe
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.deps.json
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.dll
+C:\Users\Rohit Dasari\source\repos\Path\bin\Debug\netcoreapp3.1\Path_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.dll
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Path\obj\Debug\netcoreapp3.1\Path_Example.genruntimeconfig.cache
